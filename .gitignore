@@ -1,7 +1,10 @@
 build
 *.pyc
-**/f2py/*.c
-**/f2py/*.f
 *.so
 .idea
+*.obj
+*.pyd
+**/f2py/*.c
+**/f2py/*.f
+pyOpt/.libs
 
