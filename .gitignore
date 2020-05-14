@@ -7,4 +7,6 @@ build
 **/f2py/*.c
 **/f2py/*.f
 pyOpt/.libs
+dist
+scripts_tool
 
